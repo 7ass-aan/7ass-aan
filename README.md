@@ -7,14 +7,6 @@
 **Back-End Web Developer · CS Student · Coffee Lover ☕**
 
 💼 **Current:** Student at [Almadrsa](https://almdrasa.com)
-
-<p align="center">
-  <h1>Hey there, I’m <a href="https://7ass-aan.vercel.app/">Hassan Magdy</a> 👋</h1>
-  <p><em>Back-End Web Developer · CS Student · Coffee Lover ☕</em></p>
-  <p>📅 <strong>Last updated:</strong> November 6, 2025</p>
-  <p>💼 <strong>Current:</strong> Student at <a href="almdrasa.com" target="_blank">Almadrsa</p>
- 
-
 ---
 ## 🚀 About Me
 
