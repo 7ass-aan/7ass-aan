@@ -5,7 +5,7 @@
 
 **Back-End Web Developer · CS Student · Coffee Lover ☕**
 
-💼 **Current:** Student at [Almadrsa](https://almdrasa.com)
+💼 **Current:** Student at [Programming advices](https://programmingadvices.com/l/dashboard)
 ---
 ## 🚀 About Me
 
@@ -18,11 +18,6 @@
 
 <br clear="right"/>
 
-## 🔧 My Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-</p>
 ## 🔗 Connect with Me
 
 <p align="center">
