@@ -3,7 +3,7 @@
 <!-- ========================= -->
 # Hey there, I'm [Hassan Magdy](https://yousefdergham.vercel.app/) 👋
 
-**Back-End Web Developer · CS Student · Coffee Lover ☕**
+**Data Analyst · CS Student · Coffee Lover ☕**
 
 💼 **Current:** Student at [Programming advices](https://programmingadvices.com/l/dashboard)
 ---
