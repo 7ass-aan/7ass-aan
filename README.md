@@ -1,7 +1,7 @@
 <!-- ========================= -->
 <!--      HASSAN’S README     -->
 <!-- ========================= -->
-# Hey there, I'm [Hassan Magdy](https://yousefdergham.vercel.app/) 👋
+# Hey there, I'm [Hassan Magdy](https://www.linkedin.com/in/hassan-magdy-ba8410381?utm_source=share_via&utm_content=profile&utm_medium=member_ios) 👋
 
 **Data Analyst · CS Student · Coffee Lover ☕**
 
