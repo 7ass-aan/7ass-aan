@@ -5,18 +5,8 @@
 
 **Data Analyst · CS Student · Coffee Lover ☕**
 
-💼 **Current:** Student at [Programming advices](https://programmingadvices.com/l/dashboard)
+💼 **Current:** Student at [Mansoura University](https://www.mans.edu.eg/en/)
 ---
-## 🚀 About Me
-
-<div align="center">
-<img  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
-</div>
-
-
-
-
-<br clear="right"/>
 
 ## 🔗 Connect with Me
 
