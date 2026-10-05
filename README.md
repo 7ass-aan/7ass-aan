@@ -1,45 +1,32 @@
 # Hi, I'm Hassan Magdy 👋
 
-### Aspiring Data Analyst | CS Student
+🎯 Aspiring Data Analyst
 
-I'm a Computer Science student with a growing focus on **Data Analytics**.
+I'm passionate about turning data into meaningful insights and supporting data-driven decision-making.
 
-I enjoy working with data — from cleaning and transforming raw data to building data models, analyzing results, and creating interactive dashboards that turn data into useful insights.
+### 🛠️ Skills & Tools
+- Microsoft Excel
+- Google Sheets
+- SQL
+- Python
+- Power BI
+- Tableau
+- Data Cleaning & Transformation
+- Data Visualization
+- Data Modeling
+- DAX
 
-## 🛠️ Tools & Technologies
+### 📊 What I'm Working On
+- Building practical data analysis projects.
+- Improving my analytical and technical skills.
+- Developing my understanding of business and data-driven decision-making.
 
-**Data Analysis**
-
-Excel • Power Query • Power Pivot • DAX • Pivot Tables • Power BI • SQL
-
-**Currently Learning**
-
-Statistics • Business Analysis • Data Analytics
+### 🎯 My Goal
+To grow as a Data Analyst by combining technical skills, analytical thinking, and business understanding.
 
 ---
 
-## 📊 What I'm Working On
-
-- Building end-to-end data analysis projects
-- Improving my SQL skills
-- Developing my understanding of statistics and business concepts
-- Creating dashboards and analytical reports with Excel and Power BI
-
----
-## 🚀 Featured Projects
-
-### 🚲 [Bicycle Sales Analysis | 2015–2022](https://github.com/7ass-aan/Sales-Analysis)
-
-An end-to-end sales analysis project built using **Excel and Power BI**.
-
-- Cleaned and transformed data using Power Query
-- Built a data model and relationships
-- Created DAX measures and analytical reports
-- Used Pivot Tables for analysis
-- Built an interactive Power BI dashboard
-
-🔗 **[View the full project →](https://github.com/7ass-aan/Sales-Analysis)**
-
+📫 **Let's connect and learn together!**
 ---
 ## 🔗 Connect With Me
 
@@ -47,7 +34,7 @@ An end-to-end sales analysis project built using **Excel and Power BI**.
   <a href="https://www.linkedin.com/in/hassan-magdy-ba8410381">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/hsssssnnnn">
+  <a href="https://t.me/gtvexx">
     <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
